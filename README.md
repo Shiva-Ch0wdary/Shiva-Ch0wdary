@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-ch0wdary" alt="shiva-ch0wdary" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Shiva-Ch0wdary](https://github.com/Shiva-Ch0wdary?tab=repositories)](https://github.com/Shiva-Ch0wdary)
+- 👨‍💻 All of my projects are available at [(https://github.com/Shiva-Ch0wdary?tab=repositories)](https://github.com/Shiva-Ch0wdary)
 
 - 📫 Reach me at **shivachowdary753@gmail.com**
 
